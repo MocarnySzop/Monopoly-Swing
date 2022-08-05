@@ -1,0 +1,5 @@
+Podłaczyc gita
+Napisac prosty test
+Rozpisac sobie plan implementowania funkcjonalnosci aplikacji
+Przygotowac silnik aplikacji
+//libGDX - biblioteka do gier
